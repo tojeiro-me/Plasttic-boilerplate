@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "gruntfuggly.todo-tree",
+    "alefragnani.project-manager",
+    "formulahendry.auto-close-tag",
+    "dbaeumer.vscode-eslint",
+    "vsls-contrib.gistfs",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "glenn2223.live-sass",
+    "ritwickdey.liveserver",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "alefragnani.bookmarks",
+    "sleistner.vscode-fileutils",
+    "vunguyentuan.vscode-postcss",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
