@@ -1,6 +1,12 @@
 /*! Plasttic v2.0 | MIT License | https://plasttic.dev/ */
 
 /**
+  * GLOBAL
+  *
+  * Default styles: Reset and Print
+  */
+
+/**
   * Reset
   *
   * Styling for CSS browser compatibility
@@ -16,10 +22,6 @@
   * Custom changes are commented using "Plasttic:" 
   *
   */
-
-/* ==========================================================================
-   Reset
-   ========================================================================== */
 
 /* Box sizing rules */
 *,

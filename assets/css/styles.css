@@ -1,18 +1,119 @@
 /*! Plasttic v2.0 | MIT License | https://plasttic.dev/ */
 
-/* --- PAGES --- */
-@import "80_pages.css";
-
 /**
-  * styles.css
+  * STYLES
   *
-  * This file is a placeholder for 
-  * all the css files(*).
-  * The files in the design system
-  * are imported on the next file.
-  * This page will include all content
-  * and it will be the only file served.
+  * INDEX
+  * -----
   *
-  * (*)print.css is separate so you can decide to use it or not
+  * LOAD FONTS................Self hosted fonts
+  *
+  * TOKENS (:root)
+  * Colors
+  * Font
+  * Text
+  * Box Model
+  * (end root:)
+  * Breakpoints
+  *
+  * TYPOGRAPHY TOKENS...........Extends Font and Text
   *
   */
+
+/* ==========================================================================
+   Load Fonts
+   ========================================================================== */
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/fonts/roboto-latin-300-normal.woff2") format("woff2");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/fonts/roboto-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/fonts/roboto-latin-500-normal.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+
+/* ==========================================================================
+   Tokens
+   ========================================================================== */
+
+:root {
+  /**
+    * COLORS
+    * 
+    */
+
+  /* Neutral */
+  --ptt-clr-neutral-100: hsl(0, 0%, 100%); /* white */
+  --ptt-clr-neutral-200: hsl(0, 0%, 87.5%);
+  --ptt-clr-neutral-300: hsl(0, 0%, 75%);
+  --ptt-clr-neutral-400: hsl(0, 0%, 62.5%);
+  --ptt-clr-neutral-500: hsl(0, 0%, 50%);
+  --ptt-clr-neutral-600: hsl(0, 0%, 37.5%);
+  --ptt-clr-neutral-700: hsl(0, 0%, 25%);
+  --ptt-clr-neutral-800: hsl(0, 0%, 12.5%);
+  --ptt-clr-neutral-900: hsl(0, 0%, 0%); /* black */
+
+  /**
+    * FONT
+    * Family, Weights, Sizes
+    */
+
+  /* Font Families */
+  --ptt-fnt-family-primary: "Roboto", sans-serif;
+
+  /* Font- Weights */
+  --ptt-fnt-weight-light: 300;
+  --ptt-fnt-weight-regular: 400;
+  --ptt-fnt-weight-bold: 500;
+
+  /* Font- Sizes: 200: 14px, 400: 16px, 500: 20px,
+      700nt-: 28px, 900: 36px */
+  --ptt-fnt-size-100: 0.85rem;
+  --ptt-fnt-size-200: 0.875rem;
+  --ptt-fnt-size-400: 1rem;
+  --ptt-fnt-size-500: 1.25rem;
+  --ptt-fnt-size-700: 1.75rem;
+  --ptt-fnt-size-900: 2.25rem;
+
+  /**
+    * TEXT
+    * Line height, ...
+    */
+
+  /* Line Heights */
+  --ptt-txt-line-height-100: 0.85;
+  --ptt-txt-line-height-200: 1;
+  --ptt-txt-line-height-300: 1.2;
+  --ptt-txt-line-height-400: 1.45;
+}
+
+/* ==========================================================================
+   Styles
+   ========================================================================== */
+
+body {
+  background-color: var(--ptt-clr-neutral-100);
+  font-family: var(--ptt-fnt-family-primary);
+  font-size: var(--ptt-fnt-size-400);
+  color: var(--ptt-clr-neutral-900);
+  line-height: var(--ptt-txt-line-height-400);
+}
+
+h1 {
+  font-weight: var(--ptt-fnt-weight-bold);
+  font-size: var(--ptt-fnt-size-900);
+  line-height: var(--ptt-txt-line-height-300);
+}
