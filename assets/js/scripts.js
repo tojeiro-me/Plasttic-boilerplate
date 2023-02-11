@@ -1,4 +1,4 @@
-/* @license Plasttic v2.0 | MIT License | https://plasttic.dev/ */
+/*! Plasttic v2.0 | MIT License | https://plasttic.dev/ */
 
 /**
  * main.js
