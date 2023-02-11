@@ -3,13 +3,8 @@
 /**
  * main.js
  *
- * Global scripts
- * This are utility scripts that can be used across projects
+ * Main scripts
  *
- * Note: create other Javascript files if needed
- * in the build process they will be concatenated
- * and minified into one file scripts.min.js,
- * except files on the vendor folder.
  */
 
 /**
