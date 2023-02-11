@@ -12,11 +12,12 @@
   * Colors
   * Font
   * Text
-  * Box Model
-  * (end root:)
-  * Breakpoints
   *
-  * TYPOGRAPHY TOKENS...........Extends Font and Text
+  * STYLES
+  + Global styling
+  *
+  * PAGES
+  * 404.html
   *
   */
 
@@ -116,4 +117,14 @@ h1 {
   font-weight: var(--ptt-fnt-weight-bold);
   font-size: var(--ptt-fnt-size-900);
   line-height: var(--ptt-txt-line-height-300);
+}
+
+/* ==========================================================================
+   Pages
+   ========================================================================== */
+
+/* 404.html */
+.ptt-page__error {
+  display: grid;
+  place-items: center;
 }
