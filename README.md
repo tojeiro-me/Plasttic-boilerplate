@@ -2,6 +2,8 @@
 
 # Plasttic Minimal Template
 
+A HTML, CSS and JS complete starter template
+
 ---
 
 ### Customizing
