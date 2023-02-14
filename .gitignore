@@ -3,12 +3,3 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 **/.DS_Store
 node_modules/
-certs/
-.env
-.cache
-
-archive/
-boilerplate/
-
-dev/
-dist/
