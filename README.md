@@ -10,7 +10,7 @@ A HTML, CSS and JS complete starter template
 
 ---
 
-Search for "TODO:" in comments, relative to info that needs to be changed or checked. After, change it to "DONE:".
+Search for "TODO:" in comments, relative to info that needs to be changed or checked. After, delete the comment.
 
 If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
