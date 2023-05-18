@@ -284,5 +284,6 @@ select {
 
 .ptt-u-print-no {
   /* hide section when printing
-    class properties defined on print.css */
+    Class properties are defined on print.css
+    and applied when printing */
 }
