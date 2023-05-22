@@ -14,10 +14,13 @@
   * Styling for CSS browser compatibility
   * and best practices styling defaults
   *
-  * Based on A Modern CSS Reset by Andy Bell @piccalilli_
+  * References: 
+  * A Modern CSS Reset by Andy Bell @piccalilli_
   * https://piccalil.li/blog/a-modern-css-reset/
-  * and includes some rules from Josh Comeau @JoshWComeau
+  * Custom CSS Reset by Josh Comeau @JoshWComeau
   * https://www.joshwcomeau.com/css/custom-css-reset/
+  * Open Props Normalize by Adam Argyle @argyleink
+  * https://codepen.io/argyleink/pen/KKvRORE
   *
   */
 
@@ -36,7 +39,7 @@
   text-underline-offset: 0.25ex;
 }
 :where(ul, ol):not([role="list"], [class]) {
-  padding-left: 2ex;
+  padding-left: 1.75ex;
   /* apply the role=list when styling with list-style=none */
 }
 
@@ -52,6 +55,16 @@
   overflow-x: hidden;
 }
 
+/* Cursor */
+:where(a[href], area, button, summary, [tabindex]:not([tabindex*="-"])),
+:where(input, label[for], select, textarea),
+:where(input[type="file"])::-webkit-file-upload-button {
+  cursor: pointer;
+}
+:where(abbr) {
+  cursor: help;
+}
+
 /* Typography */
 :where(html) {
   /* Avoid text inflation on mobile screens */
@@ -59,6 +72,7 @@
   -webkit-text-size-adjust: none;
 }
 :where(body) {
+  font-family: system-ui, sans-serif;
   text-rendering: optimizeSpeed;
   /* Typography defaults for readability */
   line-height: 1.45; /* 1.3 to 1.6: ideal line height depends on the font x-height */
@@ -69,28 +83,36 @@
   /* Prevent long lines */
   max-width: 30ch;
   /* Better spacing between content */
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   /* Bigger headings typography defaults for readability */
   line-height: 1.1; /* 1 to 1.2: ideal line height depends on the font x-height */
   letter-spacing: 0.012em;
   word-spacing: 0.016em;
 }
+:where(h2, h3) {
+  /* Better spacing between content */
+  margin-top: 2.5em;
+}
 :where(h2) {
+  /* Prevent long lines */
   max-width: 35ch;
 }
 :where(h3) {
+  /* Prevent long lines */
   max-width: 45ch;
 }
-:where(h4, h5, h6, p) {
+:where(h4, h5, h6, p, li) {
   /* Prevent long lines for readability */
   max-width: 65ch; /* Optimal values: 50ch to 80ch */
+}
+:where(h4, h5, h6, p + p) {
   /* Better spacing between content */
-  margin-bottom: 1.5em;
+  margin-top: 1.5em;
 }
 :where(h1, h2, h3, h4, h5, h6, p) {
   /* Text wrap */
   overflow-wrap: break-word;
-  text-wrap: balance; /* CHECK: May 2023: not yet supported */
+  text-wrap: balance; /* May 2023: not yet supported */
 }
 
 /* Media */
@@ -106,11 +128,11 @@
 }
 :where(img, video, canvas, svg) {
   /* Set aspect-ratio based on specified sizes */
-  aspect-ratio: attr(width) / attr(height); /* CHECK: May 2023: not yet supported */
+  aspect-ratio: attr(width) / attr(height); /* May 2023: not yet supported */
 }
 
 /* Forms */
-:where(label, input, button, textarea, select),
+:where(button, input, label[for], select, textarea),
 :where(input[type="file"])::-webkit-file-upload-button {
   /* Apply document default typography styles */
   color: inherit;
@@ -148,135 +170,4 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-}
-
-/**
-* Print
-*
-* Styles that are specific to the print
-* More: https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/
-*/
-
-@media print {
-  @page {
-    margin: 2cm;
-  }
-
-  body {
-    color: #000;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 12pt;
-    font-weight: normal;
-    line-height: 1.3;
-    background: none;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: Verdana, Helvetica, Arial, sans-serif;
-    font-weight: bold;
-  }
-
-  h1 {
-    font-size: 24pt;
-  }
-
-  h2 {
-    font-size: 14pt;
-    margin-top: 25px;
-  }
-
-  h2,
-  h3 {
-    break-after: avoid;
-  }
-
-  a:link,
-  a:visited {
-    color: #000;
-    text-decoration: underline;
-  }
-
-  /* print URLs after link text */
-  a:link::after,
-  a:visited::after {
-    content: " (" attr(href) ") ";
-  }
-
-  /* do not print anchor links */
-  a[href^="#"]:after {
-    content: "";
-  }
-
-  /* TODO: exclude internal links from the style above */
-  a[href^="http"]:not([href*="plasttic.dev"]):after {
-    content: " (" attr(href) ")";
-  }
-
-  img {
-    max-width: 100% !important;
-    float: left;
-    margin: 1.5em 1.5em 1.5em 0;
-    break-inside: avoid;
-  }
-
-  hr {
-    width: 100%;
-    height: 1px;
-  }
-
-  blockquote {
-    font-style: italic;
-    font-size: 90%;
-  }
-
-  /**
-  * Specific sections 
-  * not needed to print
-  * document
-  */
-
-  nav,
-  aside,
-  footer {
-    display: none !important;
-  }
-
-  /**
-  * Utility classes: 
-  * ptt-u-print-only: Hide elements/sections until print
-  * ptt-u-print-no: Items to hide from print
-  */
-
-  .ptt-u-print-no {
-    display: none !important;
-  }
-
-  .ptt-u-print-only {
-    /* unhide print only sections */
-    display: unset !important;
-  }
-}
-
-/* TODO: Control printed sections */
-
-/**
-  * PRINT-ONLY / PRINT-NO
-  * Utility classes for print
-  * ptt-u-print-only: Hide elements/sections until print
-  * ptt-u-print-no: Items to hide from print
-  */
-
-.ptt-u-print-only {
-  display: none !important;
-}
-
-.ptt-u-print-no {
-  /* hide section when printing
-    Class properties are defined on print.css
-    and applied when printing */
 }
