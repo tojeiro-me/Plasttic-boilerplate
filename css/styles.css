@@ -19,6 +19,9 @@
   * PAGES
   * 404.html
   *
+  * UTILITY
+  * Print.css classes
+  * 
   */
 
 /* ==========================================================================
@@ -128,4 +131,25 @@ h1 {
   display: grid;
   place-items: center;
   margin: 2rem;
+}
+
+/* ==========================================================================
+   Utility
+   ========================================================================== */
+
+/**
+  * PRINT-ONLY / PRINT-NO
+  * Extends print.css
+  * ptt-u-print-only: Hide elements/sections until print
+  * ptt-u-print-no: Items to hide from print
+  */
+
+.ptt-u-print-only {
+  display: none !important;
+}
+
+.ptt-u-print-no {
+  /* hide section when printing
+      Class properties are defined on print.css
+      and applied when printing */
 }
