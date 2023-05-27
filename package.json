@@ -1,0 +1,25 @@
+{
+  "name": "plasttic-template",
+  "version": "1.0",
+  "description": "Plasttic Minimal Template",
+  "author": "Goncalo Tojeiro <dev@tojeiro.me> (https://tojeiro.me)",
+  "homepage": "https://github.com/tojeiro-me/Plasttic-template",
+  "license": "MIT",
+  "keywords": [
+    "plasttic",
+    "template",
+    "boilerplate",
+    "front-end"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tojeiro-me/Plasttic-template.git"
+  },
+  "main": "index.html",
+  "bugs": {
+    "url": "https://github.com/tojeiro-me/Plasttic-template/issues",
+    "email": "global@plasttic.dev"
+  },
+  "scripts": {}
+}
