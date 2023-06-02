@@ -1,6 +1,6 @@
 [![Plasttic](https://plasttic.dev/assets/img/social/default-banner-1200_630.png)](https://plasttic.dev)
 
-# Plasttic Minimal Template
+# Plasttic Boilerplate
 
 A HTML, CSS and JS complete starter template
 
