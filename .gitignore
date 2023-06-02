@@ -5,6 +5,9 @@
 # OS files
 **/.DS_Store
 
+# project
+.vscode/
+
 # dependencies
 node_modules/
 
