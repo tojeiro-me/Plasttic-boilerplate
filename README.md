@@ -28,13 +28,13 @@ _includes some starter CSS, JS and Fonts_
 1. Download
 
    - Go to https://github.com/tojeiro-me/Plasttic-boilerplate
-   - ...
+   - Click on the `Code` tab and select `Download ZIP`
+   - Unzip the contents and move them into your project folder
    - Customize (see below)
 
-2. Github Repo
+2. Github New Repo
 
-   - Go to https://github.com/tojeiro-me/Plasttic-boilerplate
-   - ...
+   - Click this link [Plasttic Boilerplate template](https://github.com/tojeiro-me/Plasttic-boilerplate/generate)
    - Customize (see below)
 
 3. Snippet
