@@ -12,8 +12,6 @@ The HTML boilerplate was the beginning of the [Plasttic Workflow](https://github
 
 The boilerplate provides a complete HTML template that provides the necessary information to search engines and social media sites, performance and more.
 
-The boilerplate includes:
-
 - Meta tags for SEO.
 - Meta tags for Social Media sharing.
 - Google Analytics script.
