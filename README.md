@@ -10,16 +10,24 @@ A complete starter template for HTML pages.
 
 The HTML boilerplate was the beginning of the [Plasttic Workflow](https://github.com/tojeiro-me/Plasttic) project.
 
-The objective is to provide ..
+The boilerplate provides a complete HTML template that provides the necessary information to search engines and social media sites, performance and more.
 
 The boilerplate includes:
 
--
+- Meta tags for SEO.
+- Meta tags for Social Media sharing.
+- Google Analytics script.
+- Browser icons.
+- PWA icons and information.
+- Performance:
+  - Local hosted fonts preload tags.
+  - Google Fonts tags with preconnect.
+  - Javascript with defer.
 - A simple 404 error page.
 - A CSS file with styling for print.
-- Stylesheet link for [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset)
+- Stylesheet link for [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
 
-_includes some starter CSS, JS and Fonts_
+Note: _also includes optional starter CSS, JS, Fonts and Social Icons._
 
 ---
 
@@ -47,11 +55,11 @@ _includes some starter CSS, JS and Fonts_
 
 ## Customize
 
-Search for "TODO:" in comments, relative to the info that needs to be changed or checked.
-
-If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+Search for "TODO:" in comments, relative to the information that needs to be changed or checked.
 
 Some information is global, some should be defined per page.
+
+If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ---
 
