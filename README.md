@@ -10,11 +10,11 @@ A complete starter template for HTML pages.
 
 The HTML boilerplate was the beginning of the [Plasttic Workflow](https://github.com/tojeiro-me/Plasttic) project.
 
-The objective is to provide ...
+The objective is to provide ..
 
 The boilerplate includes:
 
-- 
+-
 - A simple 404 error page.
 - A CSS file with styling for print.
 - Stylesheet link for [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset)
