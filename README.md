@@ -62,3 +62,9 @@ If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio
 ---
 
 _Main project: [Plasttic](https://github.com/tojeiro-me/Plasttic)_
+
+---
+
+## License
+
+[MIT](./LICENSE)
