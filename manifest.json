@@ -1,7 +1,7 @@
 {
   "short_name": "Plasttic",
-  "name": "Plasttic | Web Boilerplate",
-  "description": "A complete Web Boilerplate.",
+  "name": "Plasttic HTML5 Boilerplate",
+  "description": "A complete starter template for HTML pages.",
   "icons": [
     {
       "src": "/icon-vector.svg",
