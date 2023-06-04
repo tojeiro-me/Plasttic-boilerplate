@@ -13,7 +13,7 @@ node_modules/
 
 # private folders
 archive/
-tests/
+test/
 
 # private files
 *-nogit.*
