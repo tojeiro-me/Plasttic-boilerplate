@@ -1,6 +1,6 @@
 [![Plasttic](https://plasttic.dev/repo-banner-1400w-boilerplate.png)](https://plasttic.dev)
 
-# Plasttic HTML5 Boilerplate
+# Plasttic HTML Boilerplate
 
 A complete starter template for HTML pages.
 
