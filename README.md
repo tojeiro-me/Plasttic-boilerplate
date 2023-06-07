@@ -58,6 +58,8 @@ Search for "TODO:" in comments, relative to the information that needs to be cha
 
 Some information is global, some should be defined per page.
 
+Customize .gitignore for your repository development workflow.
+
 If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ---
