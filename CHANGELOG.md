@@ -2,6 +2,7 @@
 
 - Renamed boilerplate HTML file
 - Added `dist` and `src` folders for organization
+- Updated README
 
 ---
 
