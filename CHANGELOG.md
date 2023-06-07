@@ -1,6 +1,8 @@
 # v1.1.4 (Jun 08, 2023)
 
 - updated version number
+- updated 404.html
+- updated styles.css font paths
 
 ---
 
