@@ -9,11 +9,12 @@
 node_modules/
 
 # private folders
-archive/
 test/
 
 # private files
+.env
+.cache
 *-nogit*
 
 # development folders
-
+dist/
