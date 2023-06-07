@@ -1,3 +1,11 @@
+# v1.1.2 (Jun --, 2023)
+
+- ...
+
+---
+
+# Releases:
+
 # v1.1.1 (Jun 07, 2023)
 
 - added config files
@@ -5,8 +13,6 @@
 - added .htaccess
 
 ---
-
-# Releases:
 
 ## v1.1.0 (Jun 07, 2023)
 
