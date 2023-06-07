@@ -1,12 +1,18 @@
-# v1.1.2 (Jun 07, 2023)
+# v1.1.3 (Jun 07, 2023)
 
-- add .gitignore
+- added npx script
 
 ---
 
 # Releases:
 
-# v1.1.1 (Jun 07, 2023)
+## v1.1.2 (Jun 07, 2023)
+
+- added .gitignore
+
+---
+
+## v1.1.1 (Jun 07, 2023)
 
 - added config files
 - renamed boilerplate.html
