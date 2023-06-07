@@ -31,22 +31,34 @@ Note: _also includes optional starter CSS, JS, Fonts and Social Icons._
 
 ## Start
 
-1. Download
+1. Easy Start
+   
+```
+cd into your projects folder
+npx create-plasttic-boilerplate
+```
+
+- Installs the necessary dependencies
+- Creates a folder with the `project name` you defined
+- Downloads and installs the latest version of Plasttic HTML Boilerplate
+- Customize (see below)
+
+2. Download
 
    - Go to https://github.com/tojeiro-me/Plasttic-boilerplate
    - Click on the `Code` tab and select `Download ZIP`
    - Unzip the file and move the contents of the `dist` folder into your project folder
    - Customize (see below)
 
-2. Github New Repo
+3. Github New Repo
 
    - Click this link [Plasttic Boilerplate template](https://github.com/tojeiro-me/Plasttic-boilerplate/generate)
    - Inside the `dist` folder are the boilerplate files
    - Customize (see below)
 
-3. Snippet
+4. Snippet
 
-   - ptt! shortcut [VS Code Snippet](https://gist.github.com/tojeiro-me/5ca46d8dcb1cee46b4cda2737e47e6ef)
+   - `ptt!` shortcut [VS Code Snippet](https://gist.github.com/tojeiro-me/5ca46d8dcb1cee46b4cda2737e47e6ef)
    - Paste on your global or project snippet file.
    - [More info about VS Code snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets)
 
