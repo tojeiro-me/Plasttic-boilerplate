@@ -1,10 +1,16 @@
-# v1.1.3 (Jun 07, 2023)
+# v1.1.4 (Jun 07, 2023)
 
-- added npx script
+- updated version number
 
 ---
 
 # Releases:
+
+## v1.1.3 (Jun 07, 2023)
+
+- added npx script
+
+---
 
 ## v1.1.2 (Jun 07, 2023)
 
