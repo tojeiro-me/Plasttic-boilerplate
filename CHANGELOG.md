@@ -1,7 +1,7 @@
-# :construction: v1.0.3 (Jun --, 2023)
+# v1.1.0 (Jun 07, 2023)
 
 - Renamed boilerplate HTML file
-- Added `dist` folder for the template
+- Added `dist` and `src` folders for organization
 
 ---
 
