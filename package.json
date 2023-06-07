@@ -9,18 +9,26 @@
     "plasttic",
     "template",
     "boilerplate",
-    "front-end"
+    "front-end",
+    "html"
   ],
   "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tojeiro-me/Plasttic-boilerplate.git"
   },
-  "main": "boilerplate.html",
+  "main": "dist/boilerplate.html",
   "bugs": {
     "url": "https://github.com/tojeiro-me/Plasttic-boilerplate/issues",
     "email": "global@plasttic.dev"
   },
+  "files": [
+    "dist/",
+    "CHANGELOG.md",
+    "LICENSE.txt",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {},
   "devDependencies": {}
 }
