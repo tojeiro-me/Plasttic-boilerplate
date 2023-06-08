@@ -28,22 +28,22 @@
    ========================================================================== */
 
 @font-face {
-  font-family: "Roboto";
-  src: url("/assets/fonts/roboto-latin-300-normal.woff2") format("woff2");
+  font-family: 'Roboto';
+  src: url('/fonts/roboto-latin-300-normal.woff2') format('woff2');
   font-weight: 300;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("/assets/fonts/roboto-latin-400-normal.woff2") format("woff2");
+  font-family: 'Roboto';
+  src: url('/fonts/roboto-latin-400-normal.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: url("/assets/fonts/roboto-latin-500-normal.woff2") format("woff2");
+  font-family: 'Roboto';
+  src: url('/fonts/roboto-latin-500-normal.woff2') format('woff2');
   font-weight: 500;
   font-display: swap;
 }
@@ -75,7 +75,7 @@
     */
 
   /* Font Families */
-  --ptt-fnt-family-primary: "Roboto", sans-serif;
+  --ptt-fnt-family-primary: 'Roboto', sans-serif;
 
   /* Font- Weights */
   --ptt-fnt-weight-light: 300;
