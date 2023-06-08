@@ -1,6 +1,6 @@
-# v1.1.5 (Jun --, 2023)
+# v1.1.5 (Jun 08, 2023)
 
-- ...
+- Updated description
 
 ---
 
