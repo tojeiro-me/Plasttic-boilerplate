@@ -1,4 +1,4 @@
-[![Plasttic](https://plasttic.dev/repo-banner-1400w-boilerplate.png)](https://plasttic.dev)
+[![Plasttic](./.github/assets/repo-banner-1400w-boilerplate.png)](https://plasttic.dev)
 
 # Plasttic HTML Boilerplate
 
@@ -75,6 +75,12 @@ If .##gitignore## exists, rename it to .gitignore and customize to your project 
 
 If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
+## Follow
+
+---
+
+[![Twitter](./.github/assets/twitter.svg)](https://twitter.com/Plasttic_Dev)&emsp;[![Mastodon](./.github/assets/mastodon.svg)](https://mastodon.social/@plasttic)&emsp;[![Github](./.github/assets/github.svg)](https://github.com/tojeiro-me)
+
 ---
 
 ## License
@@ -83,4 +89,4 @@ If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio
 
 ---
 
-[![Plasttic](https://plasttic.dev/repo-badge-50h.png)](https://github.com/tojeiro-me/Plasttic)
+[![Plasttic](./.github/assets/repo-badge-50h.png)](https://github.com/tojeiro-me/Plasttic)
