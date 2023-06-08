@@ -1,10 +1,16 @@
-# v1.1.6 (Jun 08, 2023)
+# v1.1.7 (Jun 08, 2023)
 
-- Updated README
+- Updated images
 
 ---
 
 # Releases:
+
+## v1.1.6 (Jun 08, 2023)
+
+- Updated README
+
+---
 
 ## v1.1.5 (Jun 08, 2023)
 
