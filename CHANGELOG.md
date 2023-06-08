@@ -1,12 +1,18 @@
-# v1.1.4 (Jun 08, 2023)
+# v1.1.5 (Jun 08, 2023)
+
+- Updated description
+
+---
+
+# Releases:
+
+## v1.1.4 (Jun 08, 2023)
 
 - updated version number
 - updated 404.html
 - updated styles.css font paths
 
 ---
-
-# Releases:
 
 ## v1.1.3 (Jun 07, 2023)
 

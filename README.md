@@ -2,7 +2,7 @@
 
 # Plasttic HTML Boilerplate
 
-A complete starter template for HTML pages.
+A complete HTML starter template.
 
 ---
 
