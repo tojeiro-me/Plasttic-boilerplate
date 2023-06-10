@@ -1,10 +1,16 @@
-# v1.1.8 (Jun 10, 2023)
+# v1.1.9 (Jun 10, 2023)
 
-- Updated to Plasttic CSS Reset v2.0
+- Renamed `dist`folder to `public`
 
 ---
 
 # Releases:
+
+## v1.1.8 (Jun 10, 2023)
+
+- Updated to Plasttic CSS Reset v2.0
+
+---
 
 ## v1.1.7 (Jun 08, 2023)
 

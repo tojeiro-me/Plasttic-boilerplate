@@ -48,13 +48,13 @@ cd project-name
 
    - Go to https://github.com/tojeiro-me/Plasttic-boilerplate
    - Click on the `Code` tab and select `Download ZIP`
-   - Unzip the file and move the contents of the `dist` folder into your project folder
+   - Unzip the file and move the contents of the `public` folder into your project folder
    - Customize (see below)
 
 2. Github New Repo
 
    - Click this link [Plasttic Boilerplate template](https://github.com/tojeiro-me/Plasttic-boilerplate/generate)
-   - Inside the `dist` folder are the boilerplate files
+   - Inside the `public` folder are the boilerplate files
    - Customize (see below)
 
 3. Snippet
