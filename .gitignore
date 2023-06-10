@@ -10,10 +10,10 @@ node_modules/
 
 # private folders
 archive/
-test/
+**/sources/
 
 # private files
 *-nogit*
 
 # development folders
-
+dev/

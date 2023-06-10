@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/tojeiro-me/Plasttic-boilerplate.git"
   },
-  "main": "dist/boilerplate.html",
+  "main": "public/index.html",
   "bugs": {
     "url": "https://github.com/tojeiro-me/Plasttic-boilerplate/issues",
     "email": "global@plasttic.dev"
