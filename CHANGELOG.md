@@ -1,10 +1,16 @@
+# v1.2.1 (Jun 10, 2023)
+
+- Updated folders
+
+---
+
+# Releases:
+
 # v1.2.0 (Jun 10, 2023)
 
 - Renamed `dist`folder to `public`
 
 ---
-
-# Releases:
 
 ## v1.1.8 (Jun 10, 2023)
 
