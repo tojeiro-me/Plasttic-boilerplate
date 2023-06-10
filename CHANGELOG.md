@@ -1,4 +1,4 @@
-# v1.1.9 (Jun 10, 2023)
+# v1.2.0 (Jun 10, 2023)
 
 - Renamed `dist`folder to `public`
 
