@@ -1,10 +1,16 @@
-# v1.1.7 (Jun 08, 2023)
+# v1.1.8 (Jun 10, 2023)
 
-- Updated images
+- Updated to Plasttic CSS Reset v2.0
 
 ---
 
 # Releases:
+
+## v1.1.7 (Jun 08, 2023)
+
+- Updated images
+
+---
 
 ## v1.1.6 (Jun 08, 2023)
 
