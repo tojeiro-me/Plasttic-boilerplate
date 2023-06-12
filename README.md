@@ -61,7 +61,7 @@ cd project-name
 
 3. Snippet
 
-   - `ptt!` shortcut [VS Code Snippet](https://gist.github.com/tojeiro-me/5ca46d8dcb1cee46b4cda2737e47e6ef)
+   - `!ptt` shortcut [VS Code Snippet](https://gist.github.com/tojeiro-me/5ca46d8dcb1cee46b4cda2737e47e6ef)
    - Paste on your global or project snippet file.
    - [More info about VS Code snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets)
 

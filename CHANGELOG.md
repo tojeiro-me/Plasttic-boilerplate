@@ -1,10 +1,17 @@
-# v1.2.1 (Jun 10, 2023)
+# v1.2.2 (Jun 12, 2023)
 
-- Updated folders
+- Renamed boilerplate snippet shortcut to `!ptt`
+- Added `#top-of-page` target
 
 ---
 
 # Releases:
+
+## v1.2.1 (Jun 10, 2023)
+
+- Updated folders
+
+---
 
 ## v1.2.0 (Jun 10, 2023)
 

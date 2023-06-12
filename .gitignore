@@ -16,3 +16,4 @@ archive/
 
 # development folders
 dev/
+**/test/
