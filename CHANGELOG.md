@@ -1,6 +1,7 @@
-# v1.2.2 (Jun --, 2023)
+# v1.2.2 (Jun 12, 2023)
 
 - Renamed boilerplate snippet shortcut to `!ptt`
+- Added `#top-of-page` target
 
 ---
 
