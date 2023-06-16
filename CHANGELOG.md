@@ -1,11 +1,16 @@
-# v1.2.2 (Jun 12, 2023)
+# v1.2.3 (Jun 16, 2023)
 
-- Renamed boilerplate snippet shortcut to `!ptt`
-- Added `#top-of-page` target
+- Updated README
+- Images preload link
 
 ---
 
 # Releases:
+
+## v1.2.2 (Jun 12, 2023)
+
+- Renamed boilerplate snippet shortcut to `!ptt`
+- Added `#top` of page target
 
 ## v1.2.1 (Jun 10, 2023)
 

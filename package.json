@@ -1,6 +1,6 @@
 {
   "name": "plasttic-boilerplate",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Plasttic HTML Boilerplate: A complete HTML starter template",
   "author": "Goncalo Tojeiro <dev@tojeiro.me> (https://tojeiro.me)",
   "homepage": "https://github.com/tojeiro-me/Plasttic-boilerplate",
@@ -29,6 +29,15 @@
     "package.json",
     "README.md"
   ],
-  "scripts": {},
-  "devDependencies": {}
+  "scripts": {
+    "lint": "npx lint-staged"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8",
+    "stylelint": "^15.7.0",
+    "stylelint-config-standard": "^33.0.0",
+    "stylelint-order": "^6.0.3"
+  }
 }
