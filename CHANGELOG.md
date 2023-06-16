@@ -1,11 +1,17 @@
-# v1.2.3 (Jun 16, 2023)
+# v1.2.4 (Jun --, 2023)
+
+- ...
+
+---
+
+# Releases:
+
+## v1.2.3 (Jun 16, 2023)
 
 - Updated README
 - Images preload link
 
 ---
-
-# Releases:
 
 ## v1.2.2 (Jun 12, 2023)
 
