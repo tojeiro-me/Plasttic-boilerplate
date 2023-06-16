@@ -17,3 +17,6 @@ archive/
 # development folders
 dev/
 **/test/
+
+# project folders and files
+**/NOTES.md
