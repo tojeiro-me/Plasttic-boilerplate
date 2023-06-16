@@ -1,6 +1,6 @@
 # v1.2.4 (Jun --, 2023)
 
-- ...
+- Removed Stylelint (Prettier only)
 
 ---
 
