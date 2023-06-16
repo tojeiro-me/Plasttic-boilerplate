@@ -1,6 +1,6 @@
 # v1.2.5 (Jun --, 2023)
 
-- ...
+- Updated prettier config
 
 ---
 

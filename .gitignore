@@ -8,12 +8,17 @@
 # dependencies
 node_modules/
 
-# private folders
-archive/
-
-# private files
-*-nogit*
+# private folders and files
+certs/
+.env
+.cache
 
 # development folders
 dev/
+dist/
+
+# project folders and files
+archive/
 **/test/
+*-nogit*
+**/NOTES.md
