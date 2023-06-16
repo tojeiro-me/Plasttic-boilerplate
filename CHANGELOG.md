@@ -1,4 +1,4 @@
-# v1.2.3 (Jun --, 2023)
+# v1.2.3 (Jun 16, 2023)
 
 - Updated README
 - Images preload link
