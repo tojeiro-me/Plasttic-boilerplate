@@ -1,11 +1,17 @@
+# v1.2.5 (Jun --, 2023)
+
+- ...
+
+---
+
+# Releases:
+
 # v1.2.4 (Jun 16, 2023)
 
 - Removed Stylelint (Prettier only)
 - Updated lint-staged config
 
 ---
-
-# Releases:
 
 ## v1.2.3 (Jun 16, 2023)
 
