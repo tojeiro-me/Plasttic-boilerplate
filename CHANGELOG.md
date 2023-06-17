@@ -1,5 +1,6 @@
 # v1.2.6 (Jun --, 2023)
 
+- Added dependabot
 - ...
 
 ---
