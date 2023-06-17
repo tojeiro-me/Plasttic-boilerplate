@@ -20,6 +20,7 @@ The boilerplate provides a complete HTML template that provides the necessary in
 - Browser icons.
 - PWA icons and information.
 - Performance:
+  - Preload images tag
   - Local hosted fonts preload tags.
   - Google Fonts tags with preconnect.
   - Javascript with defer.
