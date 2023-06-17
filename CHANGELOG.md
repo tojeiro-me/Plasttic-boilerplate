@@ -1,12 +1,16 @@
-# v1.2.5 (Jun 18, 2023)
+# v1.2.6 (Jun --, 2023)
 
-- Updated prettier config
-- Snippet update
-- Updated lint-staged config
+- ...
 
 ---
 
 # Releases:
+
+## v1.2.5 (Jun 18, 2023)
+
+- Updated prettier config
+- Snippet update
+- Updated lint-staged config
 
 ## v1.2.4 (Jun 16, 2023)
 
