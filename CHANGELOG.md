@@ -2,6 +2,7 @@
 
 - Updated lint-staged config
 - Minor boilerplate updates
+- Updated: Social (OG/Twitter) tags
 
 ---
 

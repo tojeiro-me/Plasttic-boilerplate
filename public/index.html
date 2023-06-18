@@ -2,7 +2,9 @@
 <!-- Plasttic HTML Boilerplate v1.2.7 | MIT License | https://plasttic.dev/ -->
 <!-- 
 TODO: language
-https://www.w3schools.com/tags/ref_language_codes.asp 
+format language-COUNTRY (country is optional)
+https://www.w3schools.com/tags/ref_language_codes.asp
+https://www.w3schools.com/tags/ref_country_codes.asp
 -->
 <html lang="en">
   <head>
@@ -36,7 +38,7 @@ https://www.w3schools.com/tags/ref_language_codes.asp
     <!-- TODO: Website description (recommended max: 155 characters) -->
     <meta
       name="description"
-      content="Plasttic is a Web Workflow including HTML5 Boilerplate, CSS Reset, Atomic Design CSS, Templates and more."
+      content="A methodology based professional Front-End development environment."
     />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -44,38 +46,64 @@ https://www.w3schools.com/tags/ref_language_codes.asp
     <!-- TODO: (per page) Page URL -->
     <link rel="canonical" href="https://plasttic.dev/" />
 
-    <!-- TODO: (global or per page) Open Graph -->
+    <!-- TODO: (global or per page) Open Graph: Facebook, Twitter, LinkedIn, ... -->
     <!--   
     https://ogp.me 
-    https://developers.facebook.com/tools/debug/ 
+    https://www.opengraph.xyz/ (validate/preview)
     -->
     <!-- og:title (recommended max: 60 characters) -->
     <meta property="og:title" content="Plasttic Web Workflow" />
     <!-- og:description (recommended max: 200 characters) -->
     <meta
       property="og:description"
-      content="Plasttic is a Web Workflow including HTML5 Boilerplate, CSS Reset, Atomic Design CSS, Templates and more."
+      content="A methodology based professional Front-End development environment."
     />
     <meta property="og:type" content="website" />
+    <!-- og:locale: format language_COUNTRY
+    https://www.w3schools.com/tags/ref_language_codes.asp
+    https://www.w3schools.com/tags/ref_country_codes.asp
+    -->
     <meta property="og:locale" content="en_US" />
+    <!-- og:locale:alternate: list of other languages supported -->
+    <!--
+    <meta property="og:locale:alternate" content="pt_PT" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    -->
+    <!-- og:site_name: website title/blog post title -->
     <meta property="og:site_name" content="Plasttic" />
     <meta property="og:url" content="https://plasttic.dev/" />
+    <!-- og:image: website/article/blog post banner recommended:1200x627px -->
     <meta
-      name="og:image"
-      content="https://plasttic.dev/social-banner-1200_630.png"
+      property="og:image"
+      content="https://plasttic.dev/social-banner-1200_627.png"
     />
-    <meta name="og:image:alt" content="Plasttic Web Workflow" />
+    <meta property="og:image:alt" content="Plasttic Web Workflow" />
     <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image:height" content="627" />
     <meta property="og:image:type" content="image/png" />
-
-    <!-- TODO: Twitter Cards -->
+    <!-- Optional: articles/blog posts -->
+    <meta
+      property="article:author"
+      content="https://www.facebook.com/goncalo.tojeiro"
+    />
+    <meta property="article:section" content="article" />
+    <!-- Time format: ISO 8601 (YYYY-MM-DDTHH:MM:SSUTC) -->
+    <meta
+      property="article:published_time"
+      content="2023-06-18T16:41:30+00:00"
+    />
     <!-- 
-    https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#opengraph
-    Most information is provided by the Open Graph meta tags
+    <meta property="article:modified_time" content="2021-11-12T14:24:16-08:00" />
     -->
-    <meta name="twitter:site" content="@tojeiro_me" />
+
+    <!-- TODO: Twitter Cards (extends Open Graph) -->
+    <!-- 
+    https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards
+    https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started
+    -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Plasttic_Dev" />
+    <meta name="twitter:creator" content="@tojeiro_me" />
 
     <!-- TODO: About the author of the website -->
     <link rel="author" href="/humans.txt" />
