@@ -10,9 +10,9 @@ A complete HTML starter template.
 
 ## About
 
-The HTML boilerplate was the beginning of the [Plasttic Workflow](https://github.com/tojeiro-me/Plasttic) project.
+For every web project, a complete, updated and extensible starting point is essential.
 
-The boilerplate provides a complete HTML template that provides the necessary information to search engines and social media sites, performance and more.
+This boilerplate is an HTML template that provides the necessary information to search engines and social media sites, PWA development and more, with a performance strategy.
 
 - Meta tags for SEO.
 - Meta tags for Social Media sharing.
@@ -29,6 +29,8 @@ The boilerplate provides a complete HTML template that provides the necessary in
 - Stylesheet link for [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
 
 Note: _also includes optional starter CSS, JS, Fonts and Social Icons._
+
+The HTML boilerplate was the start of the [Plasttic Workflow](https://github.com/tojeiro-me/Plasttic) project.
 
 ---
 
