@@ -72,6 +72,8 @@ cd project-name
 
 ## Customize
 
+Documentation :construction:: until it's not live, the [boilerplate file](https://raw.githubusercontent.com/tojeiro-me/Plasttic-boilerplate/master/public/index.html) is filled with comments and resource links.
+
 Search for "TODO:" in comments, relative to the information that needs to be changed or checked.
 
 Some information is global, some should be defined per page.
