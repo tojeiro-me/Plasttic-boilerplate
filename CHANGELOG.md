@@ -1,11 +1,17 @@
-# v1.2.6 (Jun 19, 2023)
+# v1.2.7 (Jun 19, 2023)
 
-- Added dependabot
-- Dependencies update
+- Updated lint-staged config
+- Minor boilerplate updates
 
 ---
 
 # Releases:
+
+## v1.2.6 (Jun 18, 2023) - Unpublished
+
+- Added dependabot
+- Dependencies update
+- Updated lint-staged config
 
 ## v1.2.5 (Jun 18, 2023)
 
