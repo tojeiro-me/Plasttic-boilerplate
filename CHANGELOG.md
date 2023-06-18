@@ -1,7 +1,7 @@
-# v1.2.6 (Jun --, 2023)
+# v1.2.6 (Jun 19, 2023)
 
 - Added dependabot
-- ...
+- Dependencies update
 
 ---
 
