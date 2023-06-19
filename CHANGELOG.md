@@ -1,12 +1,13 @@
 # v1.2.8 (Jun --, 2023)
 
 - Updated Boilerplate snippet
+- Deleted lint script
 
 ---
 
 # Releases:
 
-# v1.2.7 (Jun 19, 2023)
+## v1.2.7 (Jun 19, 2023)
 
 - Updated lint-staged config
 - Minor boilerplate updates

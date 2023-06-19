@@ -29,9 +29,7 @@
     "package.json",
     "README.md"
   ],
-  "scripts": {
-    "lint": "npx lint-staged"
-  },
+  "scripts": {},
   "devDependencies": {
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
