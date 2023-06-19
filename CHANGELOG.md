@@ -1,12 +1,18 @@
-# v1.2.7 (Jun 19, 2023)
+# v1.2.8 (Jun --, 2023)
 
-- Updated lint-staged config
-- Minor boilerplate updates
-- Updated: Social (OG/Twitter) tags
+- Updated Boilerplate snippet
 
 ---
 
 # Releases:
+
+# v1.2.7 (Jun 19, 2023)
+
+- Updated lint-staged config
+- Minor boilerplate updates
+- Updated Social (OG/Twitter) tags
+
+---
 
 ## v1.2.6 (Jun 18, 2023) - Unpublished
 
