@@ -1,7 +1,7 @@
 # v1.2.8 (Jun --, 2023)
 
 - Updated: Boilerplate snippet
-- Deleted: lint script
+- Removed: lint script
 - Updated: Husky hook
 
 ---
