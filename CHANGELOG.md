@@ -3,6 +3,7 @@
 - Updated: Boilerplate snippet
 - Removed: lint script
 - Updated: Husky hook
+- Updated: Google script (Google Tag Manager)
 
 ---
 
