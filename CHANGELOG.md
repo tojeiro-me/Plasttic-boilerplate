@@ -4,6 +4,7 @@
 - Removed: lint script
 - Updated: Husky hook
 - Added: Google Tag Manager script
+- Updated: Dependencies
 
 ---
 

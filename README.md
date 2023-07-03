@@ -26,7 +26,7 @@ This boilerplate is an HTML template that provides the necessary information to 
   - Javascript with defer.
 - A simple 404 error page.
 - A CSS file with styling for print.
-- Stylesheet link for [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
+- Stylesheet link from [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
 
 Note: _also includes optional starter CSS, JS, Fonts and Social Icons._
 
