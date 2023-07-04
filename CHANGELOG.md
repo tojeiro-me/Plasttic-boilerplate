@@ -1,10 +1,12 @@
-# v1.2.8 (Jun --, 2023)
+# v1.3.0 (Jun --, 2023)
 
 - Updated: Boilerplate snippet
 - Removed: lint script
 - Updated: Husky hook
 - Added: Google Tag Manager script
 - Updated: Dependencies
+- Updated: Images folders
+- Updated: Plasttic CSS Reset version
 
 ---
 
