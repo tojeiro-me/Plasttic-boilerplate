@@ -7,6 +7,7 @@
 - Updated: Dependencies
 - Updated: Images folders
 - Updated: Plasttic CSS Reset version
+- Updated: Information comments
 
 ---
 
