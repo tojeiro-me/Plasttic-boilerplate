@@ -1,4 +1,12 @@
-# v1.3.0 (Jul 05, 2023)
+# v1.3.1 (Jul --, 2023)
+
+- ...
+
+---
+
+# Releases:
+
+## v1.3.0 (Jul 05, 2023)
 
 - Updated: Boilerplate snippet
 - Removed: lint script
@@ -8,10 +16,6 @@
 - Updated: Images folders
 - Updated: Plasttic CSS Reset version
 - Updated: Information comments
-
----
-
-# Releases:
 
 ## v1.2.7 (Jun 19, 2023)
 
