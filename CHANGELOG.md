@@ -1,4 +1,4 @@
-# v1.3.0 (Jun --, 2023)
+# v1.3.0 (Jul 05, 2023)
 
 - Updated: Boilerplate snippet
 - Removed: lint script
