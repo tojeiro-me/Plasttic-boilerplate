@@ -77,7 +77,7 @@ Documentation :construction:: until it's not live, the [boilerplate file](https:
 - Search for "TODO:" in comments, relative to the information that needs to be changed or checked.
 - Some information is global, some should be defined per page.
 - If .##gitignore## exists, rename it to .gitignore and customize to your project info.
-- If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) or [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- If using VS Code, use the [Todo Tree extension](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) or [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight), and [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ## Follow
 
