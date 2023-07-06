@@ -16,6 +16,7 @@ This boilerplate is an HTML template that provides the necessary information to 
 
 - Meta tags for SEO.
 - Meta tags for Social Media sharing.
+- Google Tag Manager script
 - Google Analytics script.
 - Browser icons.
 - PWA icons and information.
