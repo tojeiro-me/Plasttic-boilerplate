@@ -1,7 +1,8 @@
-# v1.3.1 (Jul --, 2023)
+# v1.3.1 (Jul 06, 2023)
 
 - Updated: Boilerplate comments
 - Added: VS Code extension Better Comments
+- Updated: VS Code snippet `!ptt`
 
 ---
 
