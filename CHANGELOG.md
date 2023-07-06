@@ -1,12 +1,18 @@
-# v1.3.1 (Jul 06, 2023)
+# v1.3.2 (Jul --, 2023)
+
+- Updated: README
+
+---
+
+# Releases:
+
+## v1.3.1 (Jul 06, 2023)
 
 - Updated: Boilerplate comments
 - Added: VS Code extension Better Comments
 - Updated: VS Code snippet `!ptt`
 
 ---
-
-# Releases:
 
 ## v1.3.0 (Jul 05, 2023)
 

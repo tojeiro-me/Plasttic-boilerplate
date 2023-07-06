@@ -16,6 +16,7 @@ This boilerplate is an HTML template that provides the necessary information to 
 
 - Meta tags for SEO.
 - Meta tags for Social Media sharing.
+- Google Tag Manager script
 - Google Analytics script.
 - Browser icons.
 - PWA icons and information.
@@ -26,7 +27,7 @@ This boilerplate is an HTML template that provides the necessary information to 
   - Javascript with defer.
 - A simple 404 error page.
 - A CSS file with styling for print.
-- Stylesheet link from [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
+- CSS Reset stylesheet link from [Plasttic CSS Reset](https://github.com/tojeiro-me/Plasttic-reset).
 
 Note: _also includes optional starter CSS, JS, Fonts and Social Icons._
 
