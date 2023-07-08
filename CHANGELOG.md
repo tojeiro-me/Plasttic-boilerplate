@@ -1,6 +1,6 @@
 # v1.3.4 (Jul --, 2023)
 
-- ...
+- Updated: README
 
 ---
 
