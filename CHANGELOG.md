@@ -1,6 +1,9 @@
-# v1.3.2 (Jul --, 2023)
+# v1.3.2 (Jul 08, 2023)
 
 - Updated: README
+- Updated: 404.html (minimal tags)
+- Updated: snippet version
+- Updated: comments
 
 ---
 
