@@ -1,6 +1,6 @@
 # v1.3.3 (Jul --, 2023)
 
-- ...
+- Updated: dependencies
 
 ---
 
