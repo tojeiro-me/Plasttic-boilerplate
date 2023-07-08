@@ -46,8 +46,8 @@ The HTML boilerplate was the start of the [Plasttic Workflow](https://github.com
 
 ```
 (cd into your projects folder)
-npx create-plasttic
-cd project-name
+npx create-plasttic-boilerplate
+cd <project-name>
 ```
 
 1. Download
