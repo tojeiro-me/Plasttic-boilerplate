@@ -2,7 +2,7 @@
 
 # Plasttic HTML Boilerplate
 
-A complete HTML starter template.
+A professional and extensible HTML5 starter template.
 
 [![npm](https://img.shields.io/npm/v/plasttic-boilerplate.svg?style=flat&colorA=18181B&colorB=2D7786)](https://www.npmjs.com/package/plasttic-boilerplate)&ensp;![npm](https://img.shields.io/npm/dt/plasttic-boilerplate?style=flat&colorA=18181B&colorB=2D7786)&ensp;[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat&colorA=18181B&colorB=2D7786)](https://github.com/tojeiro-me/Plasttic-boilerplate/blob/master/LICENSE)&emsp;[![Twitter Follow](https://img.shields.io/twitter/follow/Plasttic_Dev?style=social)](https://twitter.com/Plasttic_Dev)
 
