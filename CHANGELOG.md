@@ -2,6 +2,7 @@
 
 - Updated: README
 - Updated: robots.txt
+- Updated: Dependencies
 
 ---
 
