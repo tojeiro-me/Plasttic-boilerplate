@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 <loc>https://plasttic.dev/</loc>
-<priority>1.00</priority>
+<lastmod>2023-07-18</lastmod>
 </url>
 <url>
 <loc>https://plasttic.dev/page.html</loc>
-<priority>0.80</priority>
+<lastmod>2023-07-18</lastmod>
 </url>
 </urlset>
-<!--TODO: (Free Online Sitemap Generator www.xml-sitemaps.com) -->
+<!-- TODO: sitemap / update <lastmod> for relevant changes -->
