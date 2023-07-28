@@ -3,6 +3,7 @@
 - Updated: README
 - Updated: robots.txt
 - Updated: Dependencies
+- Updated: sitemap.xml
 
 ---
 
