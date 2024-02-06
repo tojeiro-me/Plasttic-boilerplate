@@ -1,4 +1,4 @@
-# v1.3.4 (Jul --, 2023)
+# v1.3.4 (Feb --, 2024)
 
 - Updated: README
 - Updated: robots.txt
