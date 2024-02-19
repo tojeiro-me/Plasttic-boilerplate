@@ -4,6 +4,9 @@
 - Updated: robots.txt
 - Updated: Dependencies
 - Updated: sitemap.xml
+- Updated: og:image size
+- Updated: placer information
+- Updated: VS Code snippet
 
 ---
 
