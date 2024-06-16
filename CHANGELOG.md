@@ -1,5 +1,8 @@
 # v1.3.4 (Feb --, 2024)
 
+- Updated: :warning: Replaced Dependabot with Renovate
+- Updated: :warning: Dependabot for GitHub Actions only
+
 - Updated: README
 - Updated: robots.txt
 - Updated: Dependencies
