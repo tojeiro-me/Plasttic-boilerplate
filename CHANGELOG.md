@@ -2,6 +2,7 @@
 
 - Updated: :warning: Replaced Dependabot with Renovate
 - Updated: :warning: Dependabot for GitHub Actions only
+- Removed: :warning: Dependabot Auto Merge
 
 - Updated: README
 - Updated: robots.txt
